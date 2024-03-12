@@ -54,7 +54,7 @@ On selecting, the name field backgroud color changes and it expands with album t
 At a time one user details can be seen. 
 
 Also a filter input section is provided at the top which filters the names of all the users based on the value entered at the input. 
-Pagination feature is also added and currently items per page is hard coded with 10 as shown in the question. 
+Pagination feature is also added and currently items per page is hard coded with 10.
 
 The output screen shots of the application is shwon below. 
 
